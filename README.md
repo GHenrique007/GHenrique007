@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Henrique de Lima👋
 
-<!--
-**GHenrique007/GHenrique007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre Mim
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação com foco em soluções de software. Minha paixão é construir sistemas eficientes, explorando tanto o **Front-End** (com React e React Native) quanto o **Back-End** (com Java).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minhas Habilidades
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-End** | JavaScript, React, React Native, HTML5, CSS3 |
+| **Back-End** | Java,Node.JS,Lógica de Programação |
+| **Banco de Dados** | SQL, MySQL, Oracle |
+| **Ferramentas** | Git, GitHub, VS Code, Figma, Metodologias Ágeis |
+
+## 🔗 Conecte-se Comigo
+
+- [Meu LinkedIn](https://www.linkedin.com/in/gabriel-henrique-53293b1b9/)
+- Email: gabrielh.contatos@gmail.com
